@@ -1,0 +1,32 @@
+bookdown::pdf_book:
+  includes:
+    in_header: latex/preamble.tex
+    before_body: latex/before_body.tex
+    after_body: latex/after_body.tex
+  template: latex/template.tex
+  keep_tex: no
+  dev: "cairo_pdf"
+  latex_engine: xelatex
+  citation_package: natbib
+  pandoc_args: --top-level-division=chapter
+  toc_depth: 3
+  toc_unnumbered: no
+  toc_appendix: yes
+  quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
+
+
+bookdown::epub_book:
+  stylesheet: static/css/custom.css
+
+
+bookdown::gitbook:
+  css: static/css/custom.css
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Financial Knowledge Body</a></li>
+      after: |
+        <li><a href="https://github.com/yajiez/fin-knody" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/yajiez/fin-knody/edit/master/%s
+    download: []

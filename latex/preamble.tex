@@ -1,0 +1,88 @@
+\usepackage{booktabs}
+\usepackage{longtable}
+% \usepackage{minitoc}
+
+\usepackage{indentfirst}
+\setlength{\parindent}{2em}
+
+\setCJKmainfont{STKaitiSC-Regular}   % 设置缺省中文字体
+\setCJKmonofont{STHeiti}   % 设置等宽字体
+\setmainfont{Times New Roman}   %% 不指定，使用Tex的默认英文衬线字体
+\setmonofont{Monaco}   % 英文等宽字体
+%\setsansfont{Trebuchet MS} % 英文无衬线字体
+
+\usepackage{framed,color}
+\definecolor{shadecolor}{RGB}{233,233,233}
+
+\makeatletter\newenvironment{graybox}{ %
+   \noindent\begin{lrbox}{\@tempboxa}\begin{minipage}{\columnwidth}}{\end{minipage}\end{lrbox}%
+   \colorbox{shadecolor}{\usebox{\@tempboxa}}
+}\makeatother
+\setCJKfamilyfont{kaiti}{STKaitiSC-Regular}
+\newcommand{\kai}{\CJKfamily{kaiti}}
+\setCJKfamilyfont{xinwei}{STXinwei}
+\newcommand{\wei}{\CJKfamily{xinwei}}
+\newenvironment{note}{\begin{graybox}\wei\zihao{5}}{\end{graybox}}
+
+
+\renewcommand{\textfraction}{0.05}
+\renewcommand{\topfraction}{0.8}
+\renewcommand{\bottomfraction}{0.8}
+\renewcommand{\floatpagefraction}{0.75}
+
+\let\oldhref\href
+\renewcommand{\href}[2]{#2\footnote{\url{#1}}}
+
+\ifxetex
+  \usepackage{letltxmacro}
+  \setlength{\XeTeXLinkMargin}{1pt}
+  \LetLtxMacro\SavedIncludeGraphics\includegraphics
+  \def\includegraphics#1#{% #1 catches optional stuff (star/opt. arg.)
+    \IncludeGraphicsAux{#1}%
+  }%
+  \newcommand*{\IncludeGraphicsAux}[2]{%
+    \XeTeXLinkBox{%
+      \SavedIncludeGraphics#1{#2}%
+    }%
+  }%
+\fi
+
+\makeatletter
+\newenvironment{kframe}{%
+\medskip{}
+\setlength{\fboxsep}{.8em}
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\makeatletter
+\@ifundefined{Shaded}{
+}{\renewenvironment{Shaded}{\begin{kframe}}{\end{kframe}}}
+\makeatother
+
+\usepackage{makeidx}
+\makeindex
+
+\urlstyle{tt}
+
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+\frontmatter

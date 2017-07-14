@@ -1,0 +1,19 @@
+book_filename: "_main"
+repo: https://github.com/yajiez/fin-knody/
+output_dir: doc
+clean: [bookdown.bbl, _bookdown_files, _book, doc,
+        _main.Rmd, _main.aux, _main.fdb_latexmk,
+        _main.fls, _main.idx, _main.lof, _main.lot,
+        _main.out, _main.toc, _main.ilg, _main.ind]
+
+language:
+  label:
+    fig: "图 "
+    tab: "表 "
+  ui:
+    edit: "编辑"
+    chapter_name: ["第 ", " 章"]
+
+new_session: no
+
+before_chapter_script: "R/_common.R"
