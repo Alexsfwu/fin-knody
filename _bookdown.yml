@@ -1,7 +1,7 @@
 book_filename: "_main"
 repo: https://github.com/yajiez/fin-knody/
-output_dir: doc
-clean: [bookdown.bbl, _bookdown_files, _book, doc,
+output_dir: docs
+clean: [bookdown.bbl, _bookdown_files, _book,
         _main.Rmd, _main.aux, _main.fdb_latexmk,
         _main.fls, _main.idx, _main.lof, _main.lot,
         _main.out, _main.toc, _main.ilg, _main.ind]
