@@ -25,7 +25,7 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li><a href="./">Financial Knowledge Body</a></li>
+        <li><a href="./">金融学知识体系</a></li>
       after: |
         <li><a href="https://github.com/yajiez/fin-knody" target="blank">Published with bookdown</a></li>
     edit: https://github.com/yajiez/fin-knody/edit/master/%s
