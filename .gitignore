@@ -34,3 +34,6 @@ sync_changes.log
 sync_hook.script
 
 **/.Archive
+
+# MWeb
+.MWebMetaData/
