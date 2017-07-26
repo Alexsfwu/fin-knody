@@ -37,11 +37,11 @@ CFA 协会制定的道德规范 (Code of Ethics) 共包括以下六条核心内�
 
 ## 七大职业行为准则
 
-职业行为准则 (Standards of Professional Conduct) 共包括七大部分，每部分又包括若干子部分，需要能够理解并在实际案例中进行运用，七大准则分别是**专业性、公正性、对客户的职责、对雇主的职责、投资分析建议及行动、利益冲突、CFA会员及候选人准则**等内容。
+职业行为准则 (Standards of Professional Conduct) 共包括七大部分，每部分又包括若干子部分，需要能够理解并在实际案例中进行运用，七大准则分别是**专业性、公正性、对客户的职责、对雇主的职责、投资分析建议及行动、利益冲突、CFA 会员及候选人准则**等内容。
 
-## I. 专业水准 (Professionalism)
+## I. 专业性 (Professionalism)
 
-专业水准包含以下四方面内容：
+专业性包含以下四方面内容：
 
 - *A. Knowledge of the Law*
 - *B. Independence and Objectivity*
@@ -50,9 +50,9 @@ CFA 协会制定的道德规范 (Code of Ethics) 共包括以下六条核心内�
 
 ### I(A). Knowledge of the Law
 
-Knowledge of the Law指的是CFA会员或候选人需要了解并遵守任何适用的法律法规，当不同法规存在冲突的时候，以更为严格的法规为准，CFA会员或候选人不得有意参与任何违反法律法规的行为，当发现违反法律法规的行为时，必须将其与自己撇清关系。
+Knowledge of the Law 指的是 CFA 会员或候选人需要了解并遵守任何适用的法律法规，当不同法规存在冲突的时候，以更为严格的法规为准，CFA 会员或候选人不得有意参与任何违反法律法规的行为，当发现违反法律法规的行为时，必须将其与自己撇清关系。
 
-Knowledge of the Law的重点内容是：
+Knowledge of the Law 的重点内容是：
 
 - *Relationship between the Code and Standards and Applicable Law*
 - *Participation in or Association with Violations by Others*
@@ -60,9 +60,9 @@ Knowledge of the Law的重点内容是：
 
 ### I(B). Independence and Objectivity
 
-Independence and Objectivity指的是CFA会员以及候选人必须在专业事务中采用明智的判断和谨慎的行为以保持自身的独立性与客观性，CFA会员以及候选人坚决不能**提供, 索取, 或者接受**任何形式的礼物、利益、补偿以及有可能损害自身或他人独立性及公正性的报酬。
+Independence and Objectivity 指的是 CFA 会员以及候选人必须在专业事务中采用明智的判断和谨慎的行为以保持自身的独立性与客观性，CFA 会员以及候选人坚决不能**提供, 索取, 或者接受**任何形式的礼物、利益、补偿以及有可能损害自身或他人独立性及公正性的报酬。
 
-Independence and Objectivity的重点内容是：
+Independence and Objectivity 的重点内容是：
 
 - *Buy-Side Clients*
 - *Fund Manager and Custodial Relationships*
@@ -76,9 +76,9 @@ Independence and Objectivity的重点内容是：
 
 ### I(C). Misrepresentation
 
-Misrepresentation指的是CFA会员以及候选人在任何时候都不能有意的对涉及投资分析、投资建议、投资行动以及其他专业行为相关的事实进行歪曲和误导。
+Misrepresentation 指的是 CFA 会员以及候选人在任何时候都不能有意的对涉及投资分析、投资建议、投资行动以及其他专业行为相关的事实进行歪曲和误导。
 
-Misrepresentation的重点内容是：
+Misrepresentation 的重点内容是：
 
 - *Impact on Investment Practice*
 - *Performance Reporting*
@@ -89,24 +89,22 @@ Misrepresentation的重点内容是：
 
 ### I(D). Misconduct
 
-Misconduct指的是CFA会员及候选人不得参与任何涉及到不诚实、欺诈、或者任何对自身专业声望、正直及能力有所损害的不端行为。
+Misconduct 指的是 CFA 会员及候选人不得参与任何涉及到不诚实、欺诈、或者任何对自身专业声望、正直及能力有所损害的不端行为。
 
-Misconduct部分需要注意的是：
-
-*Whereas Standard I(A) addresses the obligation of members and candidates to comply with applicable law that governs their professional activities, _Standard I(D) addresses all conduct that reflects poorly on the professional integrity, good reputation, or competence of members and candidates._ Any act that involves lying, cheating, stealing, or other dishonest conduct is a violation of this standard if the offense reflects adversely on a member’s or candidate’s professional activities. Although CFA Institute discourages any sort of unethical behavior by members and candidates, the Code and Standards are primarily aimed at conduct and actions related to a member’s or candidate’s professional life.*
+Standard I(D). Misconduct 与 Standard I(A). Knowledge of the Law 之间的区别在于 Standard I(A) 强调的是 CFA 会员及候选人在从事专业性的活动时必须遵循适用法律法规的义务，而 Standard I(D) 则强调了所有影响 CFA 会员及候选人的职业操守、威望及竞争力的不当行为，包括撒谎、欺骗、盗窃或者其他会对专业性产生不利影响的行为。但是需要注意的是，尽管 CFA 协会不鼓励任何形式的不道德行为，但是道德规范和职业行为准则主要关注的是 CFA 会员或候选人的职业性活动，而非日常性活动。
 
 ## II. Integrity of Capital Markets
 
-Integrity of Capital Markets可以分为以下两个部分：
+Integrity of Capital Markets 可以分为以下两个部分：
 
 - *A. Material Nonpublic Information*
 - *B. Marker Manipulation*
 
 ### II(A). Material Nonpublic Information
 
-Material Nonpublic Information指的是CFA会员及候选人不得使用重大内幕消息进行交易，也不得使其他人根据重大内幕消息进行交易。
+Material Nonpublic Information 指的是 CFA 会员及候选人不得使用重大内幕消息进行交易，也不得使其他人根据重大内幕消息进行交易。
 
-Material Nonpublic Information部分的重点内容是：
+Material Nonpublic Information 部分的重点内容是：
 
 - *What Is “Material” Information?*
 - *What Constitutes “Nonpublic” Information?*
@@ -117,16 +115,16 @@ Material Nonpublic Information部分的重点内容是：
 
 ### II(B). Marker Manipulation
 
-Market Manipulation指的是CFA会员及候选人不得参与任何人为操纵市场价格的行为，并且不能有意的通过人为增加交易量对市场参与者进行误导从而影响价格。
+Market Manipulation 指的是 CFA 会员及候选人不得参与任何人为操纵市场价格的行为，并且不能有意的通过人为增加交易量对市场参与者进行误导从而影响价格。
 
-Market Manipulation部分的重点内容是：
+Market Manipulation 部分的重点内容是：
 
 - *Information-Based Manipulation*
 - *Transaction-Based Manipulation*
 
 ## III. Duties to Clients
 
-Duties to Clients可以分为以下五个部分：
+Duties to Clients 可以分为以下五个部分：
 
 - *A. Loyalty, Prudence, and Care*
 - *B. Fair Dealing*
@@ -136,9 +134,9 @@ Duties to Clients可以分为以下五个部分：
 
 ### III(A). Loyalty, Prudence, and Care
 
-Loyalty, Prudence, and Care指的是CFA会员及候选人具有对客户忠诚的责任，必须在业务中保持细心、谨慎并进行审慎的判断，CFA会员及候选人必须将客户的利益放在首位，需要牢记客户的利益在雇主的利益及个人利益之上，雇主的利益在个人利益之上。
+Loyalty, Prudence, and Care 指的是 CFA 会员及候选人具有对客户忠诚的责任，必须在业务中保持细心、谨慎并进行审慎的判断，CFA 会员及候选人必须将客户的利益放在首位，需要牢记客户的利益在雇主的利益及个人利益之上，雇主的利益在个人利益之上。
 
-Loyalty, Prudence, and Care部分的重点内容是：
+Loyalty, Prudence, and Care 部分的重点内容是：
 
 - *Understanding the Application of Loyalty, Prudence, and Care*
 - *Identifying the Actual Investment Client*
@@ -148,25 +146,25 @@ Loyalty, Prudence, and Care部分的重点内容是：
 
 ### III(B). Fair Dealing
 
-Fair Dealing指的是CFA会员及候选人在提供投资分析与建议、采取投资行动、以及其他专业性活动的时候必须公正、公平的对待所有客户。
+Fair Dealing 指的是 CFA 会员及候选人在提供投资分析与建议、采取投资行动、以及其他专业性活动的时候必须公正、公平的对待所有客户。
 
-Fair Dealing部分的重点内容是：
+Fair Dealing 部分的重点内容是：
 
 - *Investment Recommendations*
 - *Investment Action*
 
 ### III(C). Suitability
 
-Suitability的含义包括以下两点：
+Suitability 的含义包括以下两点：
 
-1. 当CFA会员或候选人与客户存在咨询顾问关系时，CFA会员或候选人必须：
+1. 当 CFA 会员或候选人与客户存在咨询顾问关系时，CFA 会员或候选人必须：
     - a. 在进行任何投资建议或投资行动之前，对客户或准客户的投资经历、风险回报目标、财务限制等信息进行合理的询问或调查，并且必须定期重新评估并更新这些信息；
     - b. 在进行任何投资建议或投资行动之前，必须决定该投资是否适合客户当前的财务状况，以及是否与客户的书面投资目标、委托授权、投资限制能够保持一致；
-    - c. 将客户的total portfolio作为整体考虑特定投资行动是否合适；
+    - c. 将客户的全部投资组合作为整体考虑特定投资行动是否合适；
 
-2. 当CFA会员或候选人负责管理具有特定授权、特定投资战略、或者特定投资风格的Portfolio时，必须只给出与规定的投资目标以及投资限制保持一致的投资建议或者投资行动；
+2. 当 CFA 会员或候选人负责管理具有特定授权、特定投资战略、或者特定投资风格的资产组合时，必须只给出与规定的投资目标以及投资限制保持一致的投资建议或者投资行动；
 
-Suitability部分的重点内容是：
+Suitability 部分的重点内容是：
 
 - *Developing an Investment Policy*
 - *Understanding the Client’s Risk Profile*
@@ -177,19 +175,19 @@ Suitability部分的重点内容是：
 
 ### III(D). Performance Presentation
 
-Performance Presentation指的是当与客户沟通反馈投资表现的时候，CFA会员或候选人必须尽量公正、准确、完整的进行表述。
+Performance Presentation 指的是当与客户沟通反馈投资表现的时候，CFA 会员或候选人必须尽量公正、准确、完整的进行表述。
 
-Performance Presentation部分需要注意的是：*此条标准鼓励CFA会员或候选人向客户或准客户对有关投资表现的信息和数据进行全面的披露。*
+Performance Presentation 部分需要注意的是：*此条标准鼓励 CFA 会员或候选人向客户或准客户对有关投资表现的信息和数据进行全面的披露。*
 
 ### III(E). Preservation of Confidentiality
 
-Preservation of Confidentiality指的是CFA会员或候选人必须对**当前客户、前客户以及预期的准客户**的相关信息保密，除非存在以下三种情况：
+Preservation of Confidentiality 指的是 CFA 会员或候选人必须对**当前客户、前客户以及预期的准客户**的相关信息保密，除非存在以下三种情况：
 
-1. *客户的部分行为是非法的；*
-2. *法律要求披露的信息；*
-3. *客户授权对信息进行披露；*
+1. *客户的部分行为是非法的*
+2. *法律要求披露的信息*
+3. *客户授权对信息进行披露*
 
-Preservation of Confidentiality部分的重点内容是：
+Preservation of Confidentiality 部分的重点内容是：
 
 - *Status of Client*
 - *Compliance with Laws*
@@ -198,7 +196,7 @@ Preservation of Confidentiality部分的重点内容是：
 
 ## IV. Duties to Employers
 
-Duties to Employers可以分为以下三个部分：
+Duties to Employers 可以分为以下三个部分：
 
 - *A. Loyalty*
 - *B. Additional Compensation Arrangements*
@@ -206,9 +204,9 @@ Duties to Employers可以分为以下三个部分：
 
 ### IV(A). Loyalty
 
-Loyalty指的是CFA会员及候选人必须对雇主忠诚，将雇主的利益置于个人利益之上，不得借助自身的专业能力优势剥夺雇主的利益，不得泄漏雇主的机密信息，不得做任何损害雇主利益的行为。
+Loyalty 指的是 CFA 会员及候选人必须对雇主忠诚，将雇主的利益置于个人利益之上，不得借助自身的专业能力优势剥夺雇主的利益，不得泄漏雇主的机密信息，不得做任何损害雇主利益的行为。
 
-Loyalty部分的重点内容是：
+Loyalty 部分的重点内容是：
 
 - *Employer Responsibilities*
 - *Independent Practice*
@@ -219,22 +217,22 @@ Loyalty部分的重点内容是：
 
 ### IV(B). Additional Compensation Arrangements
 
-Additional Compensation Arrangements指的是CFA会员及候选人不得接受任何可能与雇主利益有冲突的礼物、利益、补偿及报酬，除非获得了所有参与方的**书面同意**。
+Additional Compensation Arrangements 指的是 CFA 会员及候选人不得接受任何可能与雇主利益有冲突的礼物、利益、补偿及报酬，除非获得了所有参与方的**书面同意**。
 
-Additional Compensation Arrangements部分需要注意的是：*“Written consent” includes any form of communication that can be documented (for example, communication via e-mail that can be retrieved and documented).*
+注意，此处的书面同意 (Written Consent) 包含任何可以用文件证明的通讯方式，比如电子邮件等。
 
 ### IV(C). Responsibilities of Supervisors
 
-Responsibilities of Supervisors指的是处于主管或领导岗位的CFA会员或候选人对其下属负有监督指导的责任，必须要尽力保证其下属遵守相应的法律、法规、以及Code and Standards。
+Responsibilities of Supervisors 指的是处于主管或领导岗位的CFA会员或候选人对其下属负有监督指导的责任，必须要尽力保证其下属遵守相应的法律、法规、以及 Code and Standards。
 
-Responsibilities of Supervisors部分的重点内容是：
+Responsibilities of Supervisors 部分的重点内容是：
 
 - *System for Supervision*
 - *Supervision Includes Detection*
 
 ## V. Investment Analysis, Recommendations, and Actions
 
-Investment Analysis, Recommendations, and Actions包括与投资分析、建议及行动相关的规定，可以分为以下三个部分：
+Investment Analysis, Recommendations, and Actions 包括与投资分析、建议及行动相关的规定，可以分为以下三个部分：
 
 - *A. Diligence and Reasonable Basis*
 - *B. Communication with Clients and Prospective Clients*
@@ -242,9 +240,9 @@ Investment Analysis, Recommendations, and Actions包括与投资分析、建议�
 
 ### V(A). Diligence and Reasonable Basis
 
-Diligence and Reasonable Basis指的是CFA会员及候选人在进行投资分析、建议及行动时必须要尽职、独立、全面且彻底，并且对于任何的投资分析、建议及行动，都必须有合理充分的依据，并有相关的合理研究和调查作为支撑。
+Diligence and Reasonable Basis 指的是 CFA 会员及候选人在进行投资分析、建议及行动时必须要尽职、独立、全面且彻底，并且对于任何的投资分析、建议及行动，都必须有合理充分的依据，并有相关的合理研究和调查作为支撑。
 
-Diligence and Reasonable Basis部分的重点内容是：
+Diligence and Reasonable Basis 部分的重点内容是：
 
 - *Defining Diligence and Reasonable Basis*
 - *Using Secondary or Third-Party Research*
@@ -255,14 +253,14 @@ Diligence and Reasonable Basis部分的重点内容是：
 
 ### V(B). Communication with Clients and Prospective Clients
 
-Communication with Clients and Prospective Clients指的是当与客户以及准客户进行交流和沟通时，CFA会员及候选人必须：
+Communication with Clients and Prospective Clients 指的是当与客户以及准客户进行交流和沟通时，CFA 会员及候选人必须：
 
 - 向客户以及准客户披露用于投资分析、证券选取、投资组合构建等投资流程的基本形式以及基本原则，并且必须及时告知任何有可能对投资流程产生实质性影响的变化；
 - 向客户以及准客户披露投资流程中重要局限以及风险；
 - 合理的判断投资分析建议及行动中的重要因素，并将这些因素告知客户及准客户；
 - 在陈述投资分析及建议时，**必须将事实与观点进行明确的区分**；
 
-Communication with Clients and Prospective Clients部分的重点内容是：
+Communication with Clients and Prospective Clients 部分的重点内容是：
 
 - *Informing Clients of the Investment Process*
 - *Different Forms of Communication*
@@ -272,9 +270,9 @@ Communication with Clients and Prospective Clients部分的重点内容是：
 
 ### V(C). Record Retention
 
-Record Retention指的是CFA会员及候选人必须创建并维持合适的记录来支持所给出的投资分析、建议及行动，并将与客户及准客户之间与投资有关的交流记录进行适当的保存。
+Record Retention 指的是 CFA 会员及候选人必须创建并维持合适的记录来支持所给出的投资分析、建议及行动，并将与客户及准客户之间与投资有关的交流记录进行适当的保存。
 
-Record Retention部分的重点内容是：
+Record Retention 部分的重点内容是：
 
 - *New Media Records*
 - *Records Are Property of the Firm*
@@ -282,7 +280,7 @@ Record Retention部分的重点内容是：
 
 ## VI. Conflicts of Interest
 
-Conflicts of Interest包括以下三部分内容：
+Conflicts of Interest 包括以下三部分内容：
 
 - *A. Disclosure of Conflicts*
 - *B. Priority of Transactions*
@@ -290,9 +288,9 @@ Conflicts of Interest包括以下三部分内容：
 
 ### VI(A). Disclosure of Conflicts
 
-Disclosure of Conflicts指的是CFA会员及候选人必须对任何有可能损害其独立性、客观性或妨碍其对雇主、客户应付义务的事情进行完全、公正的披露，CFA会员及候选人必须确保信息的披露是明确而凸出的，应使用直白的语言进行表述，并保证能够有效的传达相关信息。
+Disclosure of Conflicts 指的是 CFA 会员及候选人必须对任何有可能损害其独立性、客观性或妨碍其对雇主、客户应付义务的事情进行完全、公正的披露，CFA 会员及候选人必须确保信息的披露是明确而凸出的，应使用直白的语言进行表述，并保证能够有效的传达相关信息。
 
-Disclosure of Conflicts部分的重点内容是：
+Disclosure of Conflicts 部分的重点内容是：
 
 - *Disclosure of Conflicts to Employers*
 - *Disclosure to Clients*
@@ -302,9 +300,9 @@ Disclosure of Conflicts部分的重点内容是：
 
 ### VI(B). Priority of Transactions
 
-Priority of Transactions指的是客户和雇主账户的投资交易相对于CFA会员或候选人个人利益相关账户的投资交易具有更高的优先级。
+Priority of Transactions 指的是客户和雇主账户的投资交易相对于 CFA 会员或候选人个人利益相关账户的投资交易具有更高的优先级。
 
-Priority of Transactions部分的重点内容是：
+Priority of Transactions 部分的重点内容是：
 
 - *Avoiding Potential Conflicts*
 - *Personal Trading Secondary to Trading for Clients*
@@ -313,22 +311,22 @@ Priority of Transactions部分的重点内容是：
 
 ### VI(C). Referral Fees
 
-Referral Fees指的是CFA会员及候选人必须向雇主、客户及准客户披露任何由于推荐相关产品及服务所收到或支付的补偿、报酬、或利益。
+Referral Fees 指的是 CFA 会员及候选人必须向雇主、客户及准客户披露任何由于推荐相关产品及服务所收到或支付的补偿、报酬、或利益。
 
-Referral Fees部分需要注意的是对Referral Fees的Appropriate disclosure指的是CFA会员及候选人需要在正式同意提供或者接受任何服务之前通知客户或准客户与该服务相关的任何利益，此外，还必须说明该利益的本质，比如flat fee还是percentage basis，一次性的还是持续的，基于研究结果付费，或者基于投资表现付费等信息。
+Referral Fees 部分需要注意的是：对 Referral Fees 的 Appropriate Disclosure 指的是CFA 会员及候选人需要在正式同意提供或者接受任何服务之前通知客户或准客户与该服务相关的任何利益，此外，还必须说明该利益的本质，比如 Flat Fee 还是 Percentage Basis，一次性的还是持续的，基于研究结果付费，或者基于投资表现付费等信息。
 
 ## VII. Responsibilities as a CFA Institute Member or CFA Candidate
 
-Responsibilities as a CFA Institute Member or CFA Candidate包括以下两部分内容：
+Responsibilities as a CFA Institute Member or CFA Candidate 包括以下两部分内容：
 
-- A. Conduct as Participants in CFA Institute Programs
-- B. Reference to CFA Institute, the CFA Designation, and the CFA Program
+- *A. Conduct as Participants in CFA Institute Programs*
+- *B. Reference to CFA Institute, the CFA Designation, and the CFA Program*
 
 ### VII(A). Conduct as Participants in CFA Institute Programs
 
-Conduct as Participants in CFA Institute Programs指的是CFA会员及候选人不得参与任何损害CFA协会或CFA认证的名声及公正性，并不得损害CFA Institute Programs的公正性、有效性以及安全性。
+Conduct as Participants in CFA Institute Programs 指的是 CFA 会员及候选人不得参与任何损害 CFA 协会或 CFA 认证的名声及公正性，并不得损害 CFA Institute Programs 的公正性、有效性以及安全性。
 
-Conduct as Participants in CFA Institute Programs部分的重点内容是：
+Conduct as Participants in CFA Institute Programs 部分的重点内容是：
 
 - Confidential Program Information
 - Additional CFA Program Restrictions
@@ -336,19 +334,18 @@ Conduct as Participants in CFA Institute Programs部分的重点内容是：
 
 ### VII(B). Reference to CFA Institute, the CFA Designation, and the CFA Program
 
-Reference to CFA Institute, the CFA Designation, and the CFA Program 指的是当提到CFA Institute, CFA Institute membership, the CFA designation, or candidacy in the CFA Program的时候，CFA会员及候选人不得歪曲或夸大membership in CFA Institute, holding the CFA designation, or candidacy in the CFA Program等的作用及含意。
+Reference to CFA Institute, the CFA Designation, and the CFA Program 指的是当提到 CFA 会员资格、CFA 持证人、以及 CFA 候选人资格的时候，CFA 会员及候选人不得歪曲或夸大这些称谓的作用及含意。
 
-Reference to CFA Institute, the CFA Designation, and the CFA Program部分的重点内容是：
+Reference to CFA Institute, the CFA Designation, and the CFA Program 部分的重点内容是：
 
 - CFA Institute Membership
 - Using the CFA Designation
 - Referring to Candidacy in the CFA Program
 - Proper Usage of the CFA Marks
 
-
 # 全球投资业绩评估标准 GIPS {#GIPS}
 
-## The Reason to Create GIPS
+## 创立 GIPS 的原因
 
 一直以来，投资机构及投资者通过评估历史投资表现选择最佳的基金经理，但是对不同基金经理的投资表现进行有意义的比较非常困难，因为历史投资记录会存在一定的误导性，误导行为主要包括以下三种：
 
@@ -358,46 +355,43 @@ Reference to CFA Institute, the CFA Designation, and the CFA Program部分的重
 
 即使对于执行最高道德准则标准的投资公司，对其历史投资表现进行有效的对比也是很困难的，因为不同的公司可能会采用不同的计算方法来表示投资结果。
 
-因此，需要建立统一的标准对投资表现进行评估，这就是制定GIPS准则的原因。
+因此，需要建立统一的标准对投资表现进行评估，这就是制定 GIPS 准则的原因。
 
 > The GIPS standards are a practitioner-driven set of ethical principles that establish a standardized, industry-wide approach for investment firms to follow in calculating and presenting their historical investment results to prospective clients. The GIPS standards ensure fair representation and full disclosure of investment performance. In other words, the GIPS standards lead investment management firms to avoid misrepresentations of performance and to communicate all relevant information that prospective clients should know in order to evaluate past results.
 
 ## Who Can Claim Compliance?
 
-- 首先，任何投资管理公司investment management firm可以选择遵守GIPS准则，是否遵守GIPS准则是自愿的，法律及监管机构一般一会要求对GIPS准则的遵守；
+- 首先，任何投资管理公司 (Investment Management Firm) 都可以选择遵守 GIPS 准则，是否遵守 GIPS 准则是自愿的，法律及监管机构一般也会要求对 GIPS 准则的遵守；
 
-- 其次，只有**实际管理资产的投资管理公司investment management firm that actually manage assets**才可以声称遵守了GIPS准则，Plan Sponsors and Consultants不能声称遵守了GIPS准则，除非其actually manage assets；
+- 其次，只有**实际管理资产的投资管理公司 Investment Management Firm that Actually Manage Assets** 才可以声称遵守了 GIPS 准则，对于 **Plan Sponsors and Consultants** 则不能声称遵守了 GIPS 准则，除非其实际管理了资产 (Actually Manage Assets) ；
 
-- 最后，对GIPS的遵守指的是Firmi-Wide而不是单独的product或composite，因此，关于是否遵守GIPS准则只有两种可能：
+- 最后，对 GIPS 的遵守指的是企业的整体行为 (Firm-Wide) 而不是针对单独的产品或一组相关的产品 (Composite)，因此，对于企业是否遵守 GIPS 准则只有两种可能：
 
-    1. 完全服从GIPS规定的所有准则并使用GIPS Compliance Statement声明遵守了GIPS准则；
-    2. 没有完全服从GIPS规定的所有准则，因此不能声明遵守了GIPS准则或提及GIPS准则。
+    1. 完全服从 GIPS 规定的所有准则并使用 GIPS Compliance Statement 声明遵守了 GIPS 准则；
+    2. 没有完全服从 GIPS 规定的所有准则，因此不能声明遵守了 GIPS 准则。
 
-## Who Benifits from Compliance？
+## GIPS 的受益者
 
-GIPS准则的受益者包括两个方面：
+GIPS 准则的受益者包括两个方面：
 
-1. **投资管理公司Investment Management Firms**：通过选择遵守GIPS准则，投资管理公司可以向其预期的准客户保证其报告的历史记录是完整和公正的，从而提高公司的竞争力，此外，也能够加强公司对相关流程的内部控制能力；
-2. **准客户Prospective Clients**：投资者对遵守了GIPS准则的公司在报告历史投资表现的公正性方面能够有更高的信任度，并且有利于投资者对不同的投资管理公司的历史投资表现进行对比，当然，GIPS准则并没有消除投资者进行深入尽职调查的需求，但是遵守GIPS准则的公司提高了其自身的可信度。
+1. **投资管理公司**：通过选择遵守 GIPS 准则，投资管理公司可以向其预期的准客户保证其报告的历史记录是完整和公正的，从而提高公司的竞争力，此外，也能够加强公司对相关流程的内部控制能力；
+2. **准客户**：投资者对遵守了 GIPS 准则的公司在报告历史投资表现的公正性方面能够有更高的信任度，并且有利于投资者对不同的投资管理公司的历史投资表现进行对比，当然，GIPS 准则并没有消除投资者进行深入尽职调查的需求，但是遵守 GIPS 准则的公司提高了其自身的可信度。
 
-## Composites in Performance Reporting
+## 业绩报告中的合成账户
 
-GIPS准则中的一个关键概念就是*the required use of composites*，A Composite指的是*an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy.* 因此，A composite 必须包括 *all actual, __fee-paying__, __discretionary portfolios__ managed in accordance with the same investment mandate, objective, or strategy.* 比如，如果一个GIPS-Compliant公司需要展示其Global Equity Composite的投资记录，那么该Composite必须包含该公司管理的基于Global Equity strategy的所有Portfolios，或者历史上管理过的Portfolios。
+GIPS 准则中的一个关键概念就是要求使用合成账户 (Composites). 合成账户指的是基于类似的投资授权、投资目标以及投资策略管理的一个或多个投资组合，所有实际的付费账户 (Fee-paying)、全权委托账户 (Discretionary Portfolios) 都必须包含进来。比如，如果一个宣传遵守了 GIPS 准则 (GIPS-Compliant) 的公司需要展示其 **Global Equity Composite** 的投资记录，那么该Composite 必须包含该公司所管理的基于 **Global Equity Strategy** 的所有投资组合账户，或者历史上曾管理过的投资组合。
 
-需要注意的是，决定一个Composite需要包含哪些Portfolios需要基于事先约定的标准pre-established criteria进行，比如on an ex-ante basis，而不能事后确立选择标准，这就避免了投资管理公司仅选取表现最好的Portfolios来组成Composite。
+需要注意的是，决定一个 Composite 需要包含哪些投资组合账户需要基于事先约定的标准 (Pre-established Criteria on an Ex-ante Basis) 进行，而不能在事后确立选择标准，这就避免了投资管理公司仅选取表现最好的投资组合来组成 Composite 进行展示。
 
-## Requirements for Verification
+## GIPS 的认证要求
 
-如果一个投资管理公司宣称其遵守了GIPS准则，那么该公司需要对其声明负责，也就是说，claim of compliance是self-regulate的，宣称遵守了GIPS准则的公司也可以自愿的雇佣独立的第三方机构对其进行Verification，用来增强其claim of compliance的可信度。
+如果一个投资管理公司宣称其遵守了 GIPS 准则，那么该公司需要对其声明负责，也就是说，Claim of Compliance 是自我监管 (Self-Regulate) 的。此外，宣称遵守了 GIPS 准则的公司也可以自愿的雇佣独立的第三方机构对其进行认证 (Verification)，用来增加其 Claim of Compliance 的可信度。
 
-Verification是针对整个公司进行的，而不是特定的Composites，因此，Verification并不保证任何特定的Composite报告的准确性，Verification主要测试以下两点：
+认证是针对整个公司进行的，而不是特定的 Composites，因此，Verification 并不保证任何特定的Composite 报告的准确性。
 
-1. whether the investment firm has complied with all the composite construction requirements of the GIPS standards on a firm-wide basis
-2. whether the investment firm has complied with all the composite construction requirements of the GIPS standards on a firm-wide basis
+**认证过程必须由独立的第三方机构进行，公司不能够对自身进行认证**。因此，第三方认证进一步提升了 Compliance 的可信度，经过认证的公司可以更好的向其准客户保证其遵守了 GIPS 准则，认证还有可能提升公司的内部相关控制流程，并提高公司的市场营销优势。
 
-**Verification必须由独立的第三方机构进行，公司不能够对自身进行Verification**，第三方认证进一步提升了compliance的可信度，经过认证的公司可以更好的向其准客户保证其遵守了GIPS准则，Verification还有可能提升公司的内部相关控制流程，并提高公司的市场营销优势。
-
-## Key Features of GIPS
+## GIPS 的关键特征
 
 - The GIPS standards are ethical standards for investment performance presentation to ensure fair representation and full disclosure of investment performance. In order to claim compliance, firms must adhere to the requirements included in the GIPS standards.
 
@@ -409,9 +403,9 @@ Verification是针对整个公司进行的，而不是特定的Composites，因�
 
 - Firms must comply with all requirements of the GIPS standards, including any updates, Guidance Statements, interpretations, Questions & Answers (Q&As), and clarifications published by CFA Institute and the GIPS Executive Committee, which are available on the GIPS website (www.gipsstandards.org) as well as in the GIPS Handbook.
 
-GIPS会随着时间不断进化，对投资表现的理解和解释需要同时考虑回报和风险，历史上，GIPS关注的主要是投资回报，基于fair representation 以及 full disclosure的精神，以及为了给投资者提供关于公司更全面的了解，**GIPS准则在2010年的版本中加入了与投资风险相关的条款规定**。
+GIPS 会随着时间不断进化，对投资表现的理解和解释需要同时考虑回报和风险，历史上，GIPS 关注的主要是投资回报，基于 Fair Representation 以及 Full Disclosure 的精神，以及为了给投资者提供关于公司更全面的了解，**GIPS 准则在 2010 年的版本中加入了与投资风险相关的条款规定**。
 
-## Historical Performance Record
+## 历史业绩记录
 
 - A firm is required to initially present, **at a minimum, five years of annual investment performance** that is compliant with the GIPS standards. *If the firm or the composite has been in existence less than five years, the firm must present performance since the firm’s inception or the composite inception date.*
 
@@ -427,7 +421,7 @@ GIPS会随着时间不断进化，对投资表现的理解和解释需要同时�
 
 - In addition to verification, firms may also choose to have specifically focused composite testing (performance examination) performed by an independent third-party verifier to provide additional assurance regarding a particular composite.
 
-## Effective Date
+## GIPS 准则的有效日期
 
 The *effective date for the 2010 edition of the GIPS standards* is **1 January 2011**. Compliant presentations that include *performance for periods that begin on or after 1 January 2011 must be prepared in accordance with the 2010 edition of the GIPS standards*. Prior editions of the GIPS standards may be found on the GIPS website (www.gipsstandards.org).
 
@@ -435,9 +429,9 @@ The *effective date for the 2010 edition of the GIPS standards* is **1 January 2
 
 Where existing laws, regulations, or industry standards already impose requirements related to the calculation and presentation of investment performance, *firms are strongly encouraged to comply with the GIPS standards in addition to applicable regulatory requirements*. **Compliance with applicable law and/or regulation does not necessarily lead to compliance with the GIPS standards.** *In cases in which laws and/or regulations conflict with the GIPS standards, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the compliant presentation.*
 
-## Nine Major Sections of GIPS
+## GIPS 的九大组成部分
 
-GIPS包括九大组成部分，分别是：
+GIPS 包括九大组成部分，分别是：
 
 - 0 Fundamentals of Compliance
 - 1 Input Data
@@ -449,25 +443,25 @@ GIPS包括九大组成部分，分别是：
 - *7 Private Equity*
 - *8 Wrap Free/Separately Managed Account (SMA) Portfolios*
 
-在每个组成部分中，GIPS的条款都分为 Requirements 以及 Recommendations 两大类，其中Requirements给出了声明遵守了GIPS准则的公司所必需满足的条款，Recommendations则给出了业界的最佳实践，鼓励公司尽可能的满足Recommendations所规定的相关条款。
+在每个组成部分中，GIPS 的条款都分为 Requirements 以及 Recommendations 两大类，其中Requirements 给出了声明遵守了 GIPS 准则的公司所必需满足的条款，Recommendations 则给出了业界的最佳实践，鼓励公司尽可能的满足 Recommendations 所规定的相关条款。
 
 ### 0 Fundamentals of Compliance
 
-GIPS的基础包括几个基本原则，分别是：
+GIPS 的基础包括几个基本原则，分别是：
 
-- properly defining the firm
-- providing compliant presentations to all prospective clients
-- adhering to applicable laws and regulations
-- ensuring that information presented is not false or misleading
+- Properly defining the firm
+- Providing compliant presentations to all prospective clients
+- Adhering to applicable laws and regulations
+- Ensuring that information presented is not false or misleading
 
-当公司考虑遵守GIPS准则时，有两个重要的问题需要考虑：
+当公司考虑遵守 GIPS 准则时，有两个重要的问题需要考虑：
 
 1. The Definition of the Firm: the definition of the firm is the foundation for firm-wide compliance and creates defined boundaries whereby total firm assets can be determined;
 2. The Firm’s Definition of Discretion: the firm’s definition of discretion establishes criteria to judge which portfolios must be included in a composite and is based on the firm’s ability to implement its investment strategy.
 
 ### 1 Input Data
 
-实际应用中，用于计算投资表现输入数据的一致性对进行有效对比是至关重要的，并且是full, fair, and comparable investment performance presentations的基础，*从2011年1月1日起，all portfolios must be valued in accordance with the definition of fair value and the GIPS Valuation Principles.*
+实际应用中，用于计算投资表现输入数据的一致性对进行有效对比是至关重要的，并且是 Full, fair, and comparable investment performance presentations 的基础，*从 2011 年 1 月 1 日起，all portfolios must be valued in accordance with the definition of fair value and the GIPS Valuation Principles.*
 
 ### 2 Calculation Methodology
 
@@ -500,3 +494,5 @@ Unless otherwise noted, this section supplements all of the required and recomme
 ### **8 Wrap Free/Separately Managed Account (SMA) Portfolios**
 
 Unless otherwise noted, this section supplements all of the required and recommended provisions in Sections 0–5. Firms should note that certain provisions in Sections 0–5 of the GIPS standards do not apply to wrap fee/SMA portfolios or are superseded by provisions within Section 8. The provisions that do not apply have been noted within Section 8.
+
+
