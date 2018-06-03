@@ -1105,10 +1105,10 @@ $$y_t = b_0 + b_1x_t + \epsilon$$
 
 可以通过下表判断两个时间序列是否可以进行回归分析：
 
-|  | 自变量序列平稳 | 自变量序列非平稳 |
-| --- | :-: | :-: |
-| **因变量序列平稳** | Yes | No |
-| **因变量序列非平稳** | No | Yes, if they are cointegrated |
+|              | 自变量序列平稳 |           自变量序列非平稳            |
+| ------------ | :-----: | :---------------------------: |
+| **因变量序列平稳**  |   Yes   |              No               |
+| **因变量序列非平稳** |   No    | Yes, if they are cointegrated |
 
 ## 时间序列分析步骤
 
@@ -1232,11 +1232,11 @@ Median & Mode
 无论是左偏还是右偏，中值Median都是在中间，对于左偏来说，顶峰在右侧，因此顶峰对应的众数Mode最大，而长尾在左侧，使得均值Mean最小，对于右偏来说，情况正好相反：
 
 - For Positively Skewed Unimodal Distribution:
-  
+
   $$Mode < Median < Mean$$
 
 - For Negatively Skewed Unimodal Distribution:
-  
+
   $$Mean < Median < Mode$$
 
 ### 分位数
@@ -1417,7 +1417,7 @@ Joint Probability指的是事件同时发生的概率:
     P(A) = &P(AS_1) + P(AS_2) + \cdots + P(AS_n) \\ 
     = &P(A|S_1)P(S_1) + P(A|S_2)P(S_2)  + \cdots + P(A|S_n)P(S_n)
     \end{split}$$
-    
+
     where *S1, S2, …, Sn* are mutually exclusive and exhaustive scenarios or events.
 
 #### 投资决策的树模型方法
